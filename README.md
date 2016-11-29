@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+I am studying functional programming. It's a lot of fun!
